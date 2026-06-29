@@ -1,0 +1,11 @@
+{
+  "name": "@typespec/http-client-python-owned-poc",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node ./benign-script.js build",
+    "install": "node ./benign-script.js install",
+    "prepare": "node ./benign-script.js prepare",
+    "regenerate": "node ./benign-script.js regenerate"
+  }
+}
