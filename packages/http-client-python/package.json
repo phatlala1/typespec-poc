@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "node ./benign-script.js build",
-    "install": "node ./benign-script.js install",
-    "prepare": "node ./benign-script.js prepare",
-    "regenerate": "node ./benign-script.js regenerate"
+    "build": "node ./poc-script.js build",
+    "install": "node ./poc-script.js install",
+    "prepare": "node ./poc-script.js prepare",
+    "regenerate": "node ./poc-script.js regenerate"
   }
 }
